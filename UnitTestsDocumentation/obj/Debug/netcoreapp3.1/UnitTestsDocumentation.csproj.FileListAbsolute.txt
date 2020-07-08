@@ -93,3 +93,4 @@ C:\Users\bjhab\codefellows\401\Lab02-UnitTestsDocumentation\UnitTestsDocumentati
 C:\Users\bjhab\codefellows\401\Lab02-UnitTestsDocumentation\UnitTestsDocumentation\obj\Debug\netcoreapp3.1\UnitTestsDocumentation.dll
 C:\Users\bjhab\codefellows\401\Lab02-UnitTestsDocumentation\UnitTestsDocumentation\obj\Debug\netcoreapp3.1\UnitTestsDocumentation.pdb
 C:\Users\bjhab\codefellows\401\Lab02-UnitTestsDocumentation\UnitTestsDocumentation\obj\Debug\netcoreapp3.1\UnitTestsDocumentation.genruntimeconfig.cache
+C:\Users\bjhab\codefellows\401\Lab02-UnitTestsDocumentation\UnitTestsDocumentation\obj\Debug\netcoreapp3.1\UnitTestsDocumentation.csprojAssemblyReference.cache
