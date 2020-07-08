@@ -30,7 +30,7 @@ namespace UnitTestsDocumentation
 
                 if (input == "1")
                 {
-                    ViewBalance();
+                    Console.WriteLine($"Your current balance is {ViewBalance()}");
                     DisplayContinuePrompt();
                 }
                 else if (input == "2")
@@ -64,19 +64,19 @@ namespace UnitTestsDocumentation
             else Console.WriteLine("Thank you for using this ATM! Have a great day!");
         }
 
-        public static void ViewBalance()
+        public static decimal ViewBalance()
         {
-
+            return Balance;
         }
 
-        public static void Withdraw(decimal amount)
+        public static decimal Withdraw(decimal amount)
         {
-
+            return 0;
         }
 
-        public static void Deposit(decimal amount)
+        public static decimal Deposit(decimal amount)
         {
-
+            return 0;
         }
     }
 }
